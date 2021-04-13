@@ -2,3 +2,28 @@
     min-height: 100px;
     background-color: royalblue;
 }
+
+.wrapper_60{
+    width: 60%;
+    margin: 0 auto;
+}
+
+i{
+    display: inline-block;
+}
+
+.logo{
+    width: 350px;
+}
+
+#link_header{
+    color: #6E6E6E;
+}
+
+.link_left{
+    float: left;
+}
+
+.link_right{
+    float: right;
+}
