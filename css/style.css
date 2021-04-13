@@ -1,6 +1,7 @@
 [class*="container"]{
     min-height: 100px;
-    background-color: royalblue;
+    background-color: white;
+    border: 2px solid black;
 }
 
 .wrapper_60{
@@ -8,22 +9,17 @@
     margin: 0 auto;
 }
 
-i{
-    display: inline-block;
+.immagine img{
+    width: 180px;
 }
 
-.logo{
-    width: 350px;
+.navbar-default
+.navbar-nav>li>a{
+    color:#031C4E;
 }
 
-#link_header{
-    color: #6E6E6E;
-}
-
-.link_left{
-    float: left;
-}
-
-.link_right{
-    float: right;
+#btn_header{
+    color: #004AFF;
+    border: 1px solid #004AFF;
+    border-radius: 5px;
 }
