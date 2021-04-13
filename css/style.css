@@ -23,3 +23,9 @@
     border: 1px solid #004AFF;
     border-radius: 5px;
 }
+
+.jumbotron{
+    background-image: url(../img/bg-banner-home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
