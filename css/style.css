@@ -4,6 +4,10 @@
     border: 2px solid black;
 } */
 
+.navbar{
+    background-color: white;
+}
+
 .wrapper_60{
     width: 60%;
     margin: 0 auto;
@@ -169,4 +173,11 @@
 
 .loghi i{
     margin-left: 10px;
+}
+
+@media (max-width: 777px){
+    .loghi img{
+        width: 150px;  
+        margin-left: 10px;
+    }
 }
