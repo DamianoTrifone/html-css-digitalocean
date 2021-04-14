@@ -201,3 +201,11 @@
     margin-top: 10px;
     font-family: 'Roboto', sans-serif;
 }
+
+.link_deploy{
+    margin-top: 40px;
+}
+
+.deploy a{
+    color: gray;
+}
