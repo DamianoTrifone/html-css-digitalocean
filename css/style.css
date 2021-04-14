@@ -196,7 +196,7 @@
     font-weight:900;
 }
 
-.deploy p{
+#descrizione_deploy{
     color: gray;
     margin-top: 10px;
     font-family: 'Roboto', sans-serif;
