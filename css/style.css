@@ -186,3 +186,18 @@
     }
 }
 
+.deploy{
+    margin-top: 20px;
+}
+
+.deploy h2{
+    color: #031C4E;
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+}
+
+.deploy p{
+    color: gray;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
