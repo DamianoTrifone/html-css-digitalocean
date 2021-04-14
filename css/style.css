@@ -90,3 +90,26 @@
     font-weight: 600;
     letter-spacing: 1px;
 }
+
+#btn_jumbotron{
+    margin-top: 2%;
+    border-radius: 5px;
+    color: lightgray;
+    background-color: white;
+    width: 100%;
+    height: 30px;
+    padding: 3px 0px;
+    border: 1px solid whitesmoke;
+    position: relative;
+}
+
+#google_jumbotron{
+    color: gray;
+}
+
+#logo_btn_google{
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    size: 15px;
+}
