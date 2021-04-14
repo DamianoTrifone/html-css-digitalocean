@@ -175,9 +175,14 @@
     margin-left: 10px;
 }
 
+.logo_carousel{
+    margin: 0 auto;
+}
+
 @media (max-width: 777px){
     .loghi img{
         width: 150px;  
         margin-left: 10px;
     }
 }
+
