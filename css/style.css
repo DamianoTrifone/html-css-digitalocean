@@ -1,8 +1,3 @@
-/* [class*="container"]{
-    min-height: 100px;
-    background-color: white;
-    border: 2px solid black;
-} */
 
 .navbar{
     background-color: white;
@@ -351,7 +346,7 @@
 }
 
 .development{
-    color: #F3F5F9;
+    background-color: #F3F5F9;
 }
 
 .development h2{
@@ -359,4 +354,24 @@
     font-family: 'Roboto', sans-serif;
     font-weight:900;
     margin-top: 30px;
+}
+
+.riquadro_bianco_2{
+    height: 200px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 5px 15px;
+    margin-top: 50px;
+}
+
+.riquadro_bianco_2 img{
+    width: 250px;
+    margin-top: 40px;
+}
+
+.riquadro_bianco_2 p{
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 18px;
+    font-size: 16px;
 }
