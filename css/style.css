@@ -284,6 +284,7 @@
     vertical-align: middle;
     padding-top: 10px;
 }
+
 .features img{
     text-align: left;
 }
@@ -309,6 +310,7 @@
 
 .blocco_features{
     margin-top: 20px;
+    text-align: left;
 }
 
 .service{
@@ -324,25 +326,29 @@
 
 .grid_service{
     display: inline;
-    border-bottom: 2px solid white;
 }
 
-.grid_service h5{
-    display: inline;
+.grid_service span{
+    float: left;
+    width: 20%;
     text-transform: uppercase;
     color: white;
+    border-bottom: 1px solid white;
 }
 
 .grid_service p{
-    display: inline-block;
-    margin-left: 20px;
+    text-align: left;
+    float: left;
+    width: 60%;
     color: white;
+    border-bottom: 1px solid white;
 }
 
 .grid_service a{
-    display: inline-block;
-    margin-left: 60px;
+    float: left;
+    width: 20%;
     color: lightskyblue;
+    border-bottom: 1px solid white;
 }
 
 .development{
