@@ -215,6 +215,7 @@
 
 .sez_link{
     margin-top: 25px;
+    padding: 15px;
 }
 
 .grid_deploy h5{
@@ -226,4 +227,16 @@
 .grid_deploy p{
     color: gray;
     font-family: 'Roboto', sans-serif;
+}
+
+.grid_deploy{
+    text-align: center;
+    margin-left: 10px;
+    padding: 30px;
+}
+
+@media (min-width:1000px){
+    .grid_deploy{
+        margin-left: 80px;
+    }
 }
