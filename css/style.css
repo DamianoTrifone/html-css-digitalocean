@@ -324,6 +324,7 @@
 .service h2{
     color: white;
     font-family: 'Roboto', sans-serif;
+    margin-bottom: 25px;
 }
 
 .grid_service{
@@ -332,7 +333,7 @@
 }
 
 .grid_service h5{
-    display: inline-block;
+    display: inline;
     text-transform: uppercase;
     color: white;
 }
@@ -347,4 +348,6 @@
     display: inline-block;
     margin-left: 60px;
     color: lightskyblue;
+    float: right;
+    border-bottom: 2px solid white;
 }
