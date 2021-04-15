@@ -315,3 +315,7 @@
 .blocco_features{
     margin-top: 20px;
 }
+
+.service{
+    background: linear-gradient(90deg, #0045C3, #001E99);
+}
