@@ -357,11 +357,11 @@
 }
 
 .riquadro_bianco_2{
-    height: 200px;
     background-color: white;
     border-radius: 6px;
     padding: 5px 15px;
     margin-top: 50px;
+    margin-bottom: 40px;
 }
 
 .riquadro_bianco_2 img{
@@ -374,4 +374,20 @@
     font-family: 'Roboto', sans-serif;
     margin-top: 18px;
     font-size: 16px;
+}
+
+.riquadro_bianco_2 a{
+    color: blue;
+}
+
+#rocker_caption{
+    color: #031C4E;
+    font-family: 'Roboto', sans-serif;
+}
+
+#rocker_caption_small{
+    color: #031C4E;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -14px;
+    font-size: 12px;
 }
