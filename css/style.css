@@ -210,9 +210,20 @@
 
 .deploy a{
     color: gray;
+    border-left: 2px solid grey;
 }
 
 .sez_link{
     margin-top: 25px;
 }
 
+.grid_deploy h5{
+    color: #031C4E;
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+}
+
+.grid_deploy p{
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+}
