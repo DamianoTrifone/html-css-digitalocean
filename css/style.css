@@ -429,3 +429,7 @@ footer img{
 footer i{
     margin-left: 8px;
 }
+
+footer a{
+    display: block;
+}
