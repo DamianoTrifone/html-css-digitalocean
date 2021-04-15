@@ -184,6 +184,9 @@
         width: 150px;  
         margin-left: 10px;
     }
+    .designed i{
+        display: none;
+    }
 }
 
 .deploy{
@@ -239,4 +242,41 @@
     .grid_deploy{
         margin-left: 80px;
     }
+}
+
+.designed{
+    background-color: #F3F5F9;
+}
+
+.designed img{
+    width: 600px;
+    margin-top: 20px;
+}
+
+.designed i{
+    color: #031C4E;
+    margin-left: 25px;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.designed h2{
+    color: #031C4E;
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+}
+
+.designed .i_right{
+    color: rgba(3, 28, 78, 0.7);
+    margin-right: 25px;
+}
+
+.designed p{
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 15px;
+}
+
+.designed .caption{
+    color:#031C4E
 }
