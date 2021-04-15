@@ -3,8 +3,8 @@
     background-color: white;
 }
 
-.wrapper_60{
-    width: 60%;
+.wrapper_80{
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -414,4 +414,18 @@
     border-radius: 8px;
     border: none;
     margin-bottom: 45px;
+}
+
+footer{
+    background-color: #031C4E;
+    color: lightslategray;
+}
+
+footer img{
+    width: 40px;
+    margin-top: 30px;
+}
+
+footer i{
+    margin-left: 8px;
 }
