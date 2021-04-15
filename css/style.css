@@ -280,3 +280,38 @@
 .designed .caption{
     color:#031C4E
 }
+
+.features a{
+    float: left;
+    color: blue;
+}
+.features{
+    vertical-align: middle;
+    padding-top: 10px;
+}
+.features img{
+    text-align: left;
+}
+
+.features h2{
+    color: #031C4E;
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+}
+
+.features h4{
+    color: #031C4E;
+    font-family: 'Roboto', sans-serif;
+    font-weight:700;
+    text-align: left;
+}
+
+.features p{
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+
+.blocco_features{
+    margin-top: 20px;
+}
