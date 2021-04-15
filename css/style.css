@@ -318,4 +318,33 @@
 
 .service{
     background: linear-gradient(90deg, #0045C3, #001E99);
+    margin-top: 60px;
+}
+
+.service h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.grid_service{
+    display: inline;
+    border-bottom: 2px solid white;
+}
+
+.grid_service h5{
+    display: inline-block;
+    text-transform: uppercase;
+    color: white;
+}
+
+.grid_service p{
+    display: inline-block;
+    margin-left: 20px;
+    color: white;
+}
+
+.grid_service a{
+    display: inline-block;
+    margin-left: 60px;
+    color: lightskyblue;
 }
